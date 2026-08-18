@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git worktree:*)",
+      "Bash(cp -r d:/vision/mv/*.jpg d:/vision/worktrees/shape-detection/mv/)",
+      "Bash(cp d:/vision/mv/*.jpg d:/vision/worktrees/shape-detection/mv/)"
+    ]
+  }
+}

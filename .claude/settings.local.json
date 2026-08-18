@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test3.py)",
+      "Bash(python d:/vision/mv/test3.py)",
+      "Bash(python -c \":*)",
+      "Bash(dir /s /b \"C:\\\\Python*python.exe\")",
+      "Bash(dir /s /b \"D:\\\\Python*python.exe\")",
+      "Bash(\"C:\\\\Users\\\\19740\\\\.eide\\\\bin\\\\python36\\\\python3.exe\" \"d:\\\\vision\\\\cv\\\\test3\\\\test4.py\")"
+    ]
+  }
+}

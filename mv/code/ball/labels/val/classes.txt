@@ -1,0 +1,9 @@
+white_table_tennis
+rugby
+golf
+softball
+basketball
+orige_table_tennis
+voleyball
+tennis
+football

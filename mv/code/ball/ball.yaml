@@ -1,0 +1,5 @@
+path: D:/vision/mv/code/ball
+train: images/train
+val: images/val
+nc: 9
+names: ["pingpong","volleyball","football","golf","basketball","baseball","rugby","tennis","billiard"]

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test.py)",
+      "Bash(pip install *)",
+      "Bash(python ruler_analysis.py)",
+      "Bash(cd \"d:\\\\\\\\vision\\\\\\\\mv\\\\\\\\zhangzhenyou\\\\\\\\ZhangZhengYou-main\")",
+      "Bash(python ZhangZhengYou-main/ruler_analysis.py)"
+    ]
+  }
+}
